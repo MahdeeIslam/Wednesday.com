@@ -1,0 +1,11 @@
+.html-large {
+    font-size: 120%; /* or whatever size you want */
+}
+
+.html-small {
+    font-size: 80%; /* or whatever size you want */
+}
+
+.text-size-button {
+    margin: 0 10px;
+}
